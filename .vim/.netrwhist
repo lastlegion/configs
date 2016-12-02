@@ -1,3 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
-let g:netrw_dirhist_1='/Users/ganesh/dev/DataExplorer/Explorer/DataExplorer/public/javascripts/components/Visualizations'
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/ganesh/dev/DataScope_Instances/interactive-data-exporation/public/javascripts/src/components'
+let g:netrw_dirhist_2='/Users/ganesh/dev/DataScope_Instances/interactive-data-exporation/public/javascripts/src/components/Visualizations'
+let g:netrw_dirhist_3='/Users/ganesh/dev/DataScope_Instances/interactive-data-exporation/test'
+let g:netrw_dirhist_4='/Users/ganesh/dev/DataScope/interactive-data-exporation/routes'
