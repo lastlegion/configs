@@ -39,8 +39,6 @@ filetype plugin indent on    " required
 " Put your non-Plugin stuff after this line
 
 
-set number
-
 set runtimepath+=~/.vim_runtime
 
 source ~/.vim_runtime/vimrcs/basic.vim
@@ -72,6 +70,9 @@ let g:syntastic_javascript_checkers = ['jsxhint']
 let g:syntastic_javascript_jsxhint_exec = 'jsx-jshint-wrapper'
 
 
+
+
+set number
 
 " Indentation
 " tabstop:          Width of tab character
